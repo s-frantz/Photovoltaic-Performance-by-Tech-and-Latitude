@@ -8,6 +8,6 @@ The goal of the project was to verify this latitude and ultimately inform decisi
 
 Because this was theoretical, no actual insolation or PVOut data were used.
 
-Formulas are based on basic geometric relationship between panels and the sun angle, identifying theoretical maxima and slopes for comparison.
+Formulas are based on basic geometric relationship between panels and the sun angle, identifying theoretical maxima and function profiles for comparison.
 
 The effect of scattered / diffuse radiation were also considered.
